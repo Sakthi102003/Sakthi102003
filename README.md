@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Image Encryption**
 
-- 👨‍💻 All of my projects are available at [sakthimurugans.netlify.app](sakthimurugans.netlify.app)
+- 👨‍💻 All of my projects are available at [sakthimurugans.vercel.app](sakthimurugans.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@sakthimurugan102003](https://medium.com/@sakthimurugan102003)
 
