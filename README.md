@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakthimurugan S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthi102003&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi102003" /> </p>
 
-- 🔭 I’m currently done working on [Ceaser Cipher Encrypt and Decrypt](https://github.com/Sakthi102003/Project)
-
 - 🌱 I’m currently learning **Python Frameworks, Networking and Ethical Hacking Tools**
 
-- 🤝 I’m looking for help with **Image Encryption**
-
-- 👨‍💻 All of my projects are available at [sakthimurugans.vercel.app](sakthimurugans.vercel.app)
+- 👨‍💻 All of my projects are available at [sakthimurugans.vercel.app](sakthimurugan.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@sakthimurugan102003](https://medium.com/@sakthimurugan102003)
 
