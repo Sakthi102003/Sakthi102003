@@ -9,12 +9,12 @@
 
 ---
 
-- 🛡️ Looking for roles in **Cybersecurity**, **Python**, or **Frontend Development**  
-- 💻 Coding with **Python**, **HTML**, **CSS**, **Tailwind CSS**  
-- ⚙️ Tools I use: *Microsoft Office*, *Git/GitHub*, *Docker*  
-- 💽 OS I work with: *Ubuntu*, *Kali Linux*, *CentOS*  
-- 🌐 Networking: *FTP*, *DHCP*, *NFS*  
-- 🏏 Fun Fact: I watch a lot of cricket & enjoy video games!  
+- 🛡️ Looking for roles in **Cybersecurity**, **Python**, or **Frontend Development**
+- 💻 Coding with **Python**, **HTML**, **CSS**, **Tailwind CSS**, **React JS** ⚛️
+- ⚙️ Tools I use: *Microsoft Office*, *Git/GitHub*, *Docker*
+- 💽 OS I work with: *Ubuntu*, *Kali Linux*, *CentOS*
+- 🌐 Networking: *FTP*, *DHCP*, *NFS*
+- 🏏 Fun Fact: I watch a lot of cricket & enjoy video games!
 - 📬 Reach me: sakthimurugan102003@gmail.com
 
 ---
@@ -53,6 +53,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
