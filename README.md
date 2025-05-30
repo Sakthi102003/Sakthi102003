@@ -1,68 +1,101 @@
-<h1 align="center">Hi 👋, I'm Sakthimurugan S</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakthi102003&label=Profile%20views&color=0e75b6&style=flat" alt="sakthi102003" />
-</p>
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRtYmM1MXlxdml6dG4zbm9hd3BjdGNyOTA3MHVxZzJwODBudG41aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif"  />
+</div>
 
----
+###
 
-🌟 **Learn More** 🌟
-
----
-
-- 🛡️ Looking for roles in **Cybersecurity**, **Python**, or **Frontend Development**
-- 💻 Coding with **Python**, **HTML**, **CSS**, **Tailwind CSS**, **React JS** 
-- ⚙️ Tools I use: *Microsoft Office*, *Git/GitHub*, *Docker*
-- 💽 OS I work with: *Ubuntu*, *Kali Linux*, *CentOS*
-- 🌐 Networking: *FTP*, *DHCP*, *NFS*
-- 🏏 Fun Fact: I watch a lot of cricket & enjoy video games!
-- 📬 Reach me: sakthimurugan102003@gmail.com
-
----
-
-## 🚀 Favorite Projects
-
-- 🧑‍💻 [Deepfake Resistant Biometric Authentication](https://github.com/Sakthi102003/DeepFake-Resistant-Biometric-Authentication)
-- 📊 [GitHub User Analysis](https://github.com/Sakthi102003/Github-User-Analysis)
-- 🛡️ [Phishing Website Detector Using ML](https://github.com/Sakthi102003/Phishing-Website-Detector-Using-ML) *(in progress!)*
-
----
-
-## 📬 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/sakthimurugan_10" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakthimurugan_10" height="30" width="40" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/sakthimurugan-s/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/sakthimurugan-s" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthimurugan-s" height="30" width="40" />
+  <a href="https://medium.com/@sakthimurugan102003" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="https://medium.com/@sakthimurugan102003" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  <a href="https://www.instagram.com/sakthimurugans._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://github.com/Sakthi102003" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  <a href="https://x.com/Sakthimurugan_1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-</p>
+</div>
 
----
+###
 
-## 🛠️ Languages, Tools & OS
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sakthi102003.Sakthi102003&"  />
+</div>
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+###
 
----
+<h1 align="center">Hey Pals 👋</h1>
 
-<!--
-**Sakthi102003/Sakthi102003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h3 align="left">I’m Sakthimurugan S from the land of Kovai (aka Coimbatore) 🌴<br><br>🕵️‍♂️ Currently on a top-secret mission to land a job in Security, Python, or Front-End Development—basically anything that lets me code and look cool doing it.<br><br>🧠 My brain is currently being upgraded with React.js superpowers and cybersecurity wizardry. Please stand by...<br><br>🎮 When I’m not hacking (legally!) or coding, I’m busy saving the world in mobile games or screaming at the TV during a cricket match. 🏏💥</h3>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sakthi102003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakthi102003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakthi102003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
