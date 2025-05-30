@@ -10,7 +10,7 @@
 ---
 
 - 🛡️ Looking for roles in **Cybersecurity**, **Python**, or **Frontend Development**
-- 💻 Coding with **Python**, **HTML**, **CSS**, **Tailwind CSS**, **React JS** ⚛️
+- 💻 Coding with **Python**, **HTML**, **CSS**, **Tailwind CSS**, **React JS** 
 - ⚙️ Tools I use: *Microsoft Office*, *Git/GitHub*, *Docker*
 - 💽 OS I work with: *Ubuntu*, *Kali Linux*, *CentOS*
 - 🌐 Networking: *FTP*, *DHCP*, *NFS*
