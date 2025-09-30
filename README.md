@@ -1,28 +1,53 @@
 <div align="center">
 
-<img src="https://tenor.com/view/computer-nerd-typing-meme-gif-23328185" alt="Sakthimurugan S" width="200" height="200" style="border-radius: 50%;" />
+<img src="https://tenor.com/view/computer-nerd-typing-meme-gif-23328185" alt="Sakthimurugan S" width="200" height="200" style="border-radius: 50%;" referrerpolicy="no-referrer" loading="lazy" />
 
 </div>
 # Sakthimurugan S
 
-**Cybersecurity Enthusiast**
+**CS Enthusiast**
+
+
+## Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakthi102003)
+
+</div>
+
+
+## Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sakthi102003&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
 
 
 ## About Me
 
-I’m Sakthimurugan S from the land of Kovai (aka Coimbatore) 🌴
-
-🕵️‍♂️ Currently on a top-secret mission to land a job in Security, Python, or Front-End Development—basically anything that lets me code and look cool doing it.
-
-🧠 My brain is currently being upgraded with React.js superpowers and cybersecurity wizardry. Please stand by...
-
-🎮 When I’m not hacking (legally!) or coding, I’m busy saving the world in mobile games or screaming at the TV during a cricket match. 🏏💥
+ from the land of Kovai (aka Coimbatore) 🌴
 
 
 ## Skills
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45" title="HTML" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45" title="CSS" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" title="TypeScript" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" title="React" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45" title="Vite" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45" title="Django" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45" title="Flask" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" title="GitHub" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45" title="Windows" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="CentOS" width="45" height="45" title="CentOS" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45" title="Ubuntu" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45" title="TensorFlow" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45" title="HTML" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45" title="CSS" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript" />
+
+</div>
+
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakthi102003&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sakthi102003&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi102003&layout=compact&theme=transparent)
 
 </div>
