@@ -4,9 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sakthi102003" alt="Sakthi102003" /></a> </p>
 
-- 🔭 I'm currently working on **1. Certpath - Showcases certification details on Several Domain
+- 🔭 I'm currently working on 1. Certpath - Showcases certification details on Several Domain
 2. ResuAI - A LaTex Resume with feature of AI
-**
 
 - 🌱 I'm currently learning **Cybersecurity and Python**
 
