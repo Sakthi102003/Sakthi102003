@@ -2,8 +2,6 @@
 
 ### Dev and Security Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakthi102003&label=Profile views&color=0e75b6&style=flat" alt="Sakthi102003" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sakthi102003" alt="Sakthi102003" /></a> </p>
 
 - 🔭 I'm currently working on **1. Certpath - Showcases certification details on Several Domain
