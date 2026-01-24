@@ -1,41 +1,50 @@
-# Hi 👋, I'm Sakthimurugan S
+# Sakthimurugan S
 
-### Dev and Security Enthusiast
+**A Normal Sec Dev**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sakthi102003" alt="Sakthi102003" /></a> </p>
 
-- 🔭 I'm currently working on 
-1. Certpath - Showcases certification details on Several Domain
-2. ResuAI - A LaTex Resume with feature of AI
+## Connect with Me
 
-- 🌱 I'm currently learning **Cybersecurity and Python**
+[![GitHub](https://img.shields.io/badge/GitHub-%23333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakthi102003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthimurugan-s/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sakthimurugans_) [![Website](https://img.shields.io/badge/Website-%23666.svg?style=for-the-badge&logo=globe&logoColor=white)](https://sakthimurugan.dev/) [![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthimurugan102003@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakthimurugans._/) [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sakthimurugan102003)
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **Learning ML and enhancing some of my Projects **
+## Profile Views
 
-- 💬 Ask me about **All development and Security Concepts**
+![Profile Views](https://komarev.com/ghpvc/?username=Sakthi102003&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **sakthimurugan102003@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://sakthimurugan.dev/](https://sakthimurugan.dev/)**
+## About Me
 
-- 📝 I regularly write articles on **[https://medium.com/@sakthimurugan102003](https://medium.com/@sakthimurugan102003)**
+👋 Hi, I’m Sakthimurugan S, a cybersecurity enthusiast and developer.
+🔐 I build security-focused tools using Python, ML, and modern web technologies.
+💻 I enjoy solving real-world security problems and turning ideas into practical projects.
+🚀 Currently exploring full-stack development with a strong security-first mindset.
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/16M7eptF7rP2c2q-4VdvGLlFmSz0FqttN/view?usp=drive_link](https://drive.google.com/file/d/16M7eptF7rP2c2q-4VdvGLlFmSz0FqttN/view?usp=drive_link)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Sakthi102003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sakthi102003" height="30" width="40" /></a>
-<a href="https://dev.to/cyberX03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyberX03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakthimurugan-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthimurugan-s" height="30" width="40" /></a>
-<a href="https://fb.com/Sakthimurugan2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sakthimurugan2003" height="30" width="40" /></a>
-<a href="https://instagram.com/sakthiii_techh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakthiii_techh" height="30" width="40" /></a>
-<a href="https://twitter.com/fanatic_0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fanatic_0307" height="30" width="40" /></a>
-<a href="https://medium.com/@sakthimurugan102003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakthimurugan102003" height="30" width="40" /></a>
-<a href="https://hackerrank.com/sakthimurugan102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakthimurugan102" height="30" width="40" /></a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="28" height="28" /></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="28" height="28" /></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28" /></a> <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="28" height="28" /></a> <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="28" height="28" /></a> <a href="https://www.google.com/search?q=TailwindCSS"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Vite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="28" height="28" /></a> <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28" height="28" /></a> <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="28" height="28" /></a> <a href="https://www.google.com/search?q=FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="28" height="28" /></a> <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="28" height="28" /></a> <a href="https://www.google.com/search?q=GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="28" height="28" /></a> <a href="https://www.google.com/search?q=Windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="28" height="28" /></a> <a href="https://www.google.com/search?q=NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="28" height="28" /></a> <a href="https://www.google.com/search?q=VS%20Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="28" height="28" /></a>
 
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakthi102003&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sakthi102003&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi102003&layout=compact&theme=transparent)
+
+
+## Featured Projects
+
+- **[PhishShield - Phishing Detector](https://phisshield.onrender.com/)** — ML-based web app to detect phishing URLs with real-time analysis and clean
+reporting UI.
+
+- **[GitHub User Insights Finder](https://reposcope-2003.web.app/)** — React tool to analyze GitHub profiles — repo stats, tech stack usage, comparisons,
+and downloadable reports.
+
+- **[File Integrity Checker](https://github.com/Sakthi102003/File-Integrity-Checker)** — Python CLI/GUI tool for generating and verifying MD5/SHA256 hashes with JSON logs
+and optional email alerts.
+
+- **[CyberBuddy](https://cyberbuddy-x7zp.onrender.com/)** — Self-hosted cybersecurity chatbot built with React + FastAPI + Gemini API. Supports real-time
+chat, markdown, multi-session handling, and strong security measures.
