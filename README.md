@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> നമസ്കാരം (Namaste)🙏🏻, I'm Sakthimurugan S! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6Z3NjNHZnbjNyZ3NnZGZ6N3A0ZGZ6N3A0ZGZ6N3A0ZGZ6N3A0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/K676fF7zLMMv8f5ZNo/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> வணக்கம் (Namaste)🙏🏻, I'm Sakthimurugan S! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6Z3NjNHZnbjNyZ3NnZGZ6N3A0ZGZ6N3A0ZGZ6N3A0ZGZ6N3A0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/K676fF7zLMMv8f5ZNo/giphy.gif" width="50"></h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3NjNHZnbjNyZ3NnZGZ6N3A0ZGZ6N3A0ZGZ6N3A0ZGZ6N3A0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Header Image" />
