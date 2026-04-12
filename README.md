@@ -68,41 +68,21 @@ Reach out via LinkedIn or Email — happy to discuss.
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakthi102003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sakthi102003&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7AA2F7&fire=7AA2F7" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi102003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" width="100%" />
+</p>
+
+---
+
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-Calculated%20by%20WakaTime-blue?style=flat)
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-Syncing-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-Millions-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,500+ Contributions in the Year 2024
- > 
-> 📜 20+ Public Repositories 
- > 
-**I'm a Night 🌙 Owl** 
-
-```text
-🌞 Morning                15%        ███░░░░░░░░░░░░░░░░░░░░░░   
-🌆 Daytime                20%        █████░░░░░░░░░░░░░░░░░░░░   
-🌃 Evening                35%        ████████░░░░░░░░░░░░░░░░░   
-🌙 Night                  30%        ███████░░░░░░░░░░░░░░░░░░   
-```
-
-📊 **Technical Proficiency** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   15 repos            ████████░░░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Others                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-Last Updated on 12/04/2026 12:30:00 UTC
+<!-- WakaTime stats will be automatically generated here by GitHub Actions -->
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
