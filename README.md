@@ -15,32 +15,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/Sakthi102003?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=Sakthi102003&label=Profile%20views&color=0e75b6&style=flat)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Personal Snapshot
 
-```javascript
-const sakthi = {
-  name: "Sakthimurugan S",
-  role: "Cybersecurity Enthusiast & Developer",
-  pronouns: ["he", "him"],
-  languages: ["Python", "HTML", "CSS", "JavaScript"],
-  about: "I build security-focused tools using Python, ML, and modern web technologies.",
-  
-  technologies: {
-    frontend: ["React.js", "Tailwind CSS", "ShadCN UI", "Chart.js"],
-    backendML: ["Flask", "FastAPI", "GitHub API", "Machine Learning (Python)"],
-    tools: ["Git", "GitHub", "Firebase", "VS Code"],
-    productivity: ["MS Office", "Notion", "Google Workspace"],
-    os: ["Ubuntu", "Kali Linux", "CentOS"]
-  },
-
-  currentFocus: "Cloud Security and DevSecOps",
-  passion: "Solving real-world security problems and turning ideas into practical projects"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>📬 Interested in collaborating on Sec-Dev projects, automation tools, or AI-driven security apps?  
-Reach out via LinkedIn or Email — happy to discuss.
-</b></em>
+- 🎯 **Current Focus:** Cloud Security and DevSecOps
+- 💡 **Passion:** Solving real-world security problems and turning ideas into practical projects
+- 📬 **Collaboration:** Interested in Sec-Dev projects, automation tools, or AI-driven security apps. Reach out via LinkedIn or Email — happy to discuss.
 
 ---
 
