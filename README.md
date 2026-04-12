@@ -22,39 +22,15 @@ const sakthi = {
   name: "Sakthimurugan S",
   role: "Cybersecurity Enthusiast & Developer",
   pronouns: ["he", "him"],
-  languages: ["Python", "JavaScript", "TypeScript", "C", "C++"],
+  languages: ["Python", "HTML", "CSS", "JavaScript"],
   about: "I build security-focused tools using Python, ML, and modern web technologies.",
   
   technologies: {
-    cybersecurity: {
-      areas: ["Penetration Testing", "Security Research", "Cryptography"],
-      tools: ["Burp Suite", "Metasploit", "Nmap", "Wireshark"]
-    },
-    
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Bootstrap", "CSS3", "HTML5"]
-    },
-
-    backend: {
-      frameworks: ["Node.js", "Express", "FastAPI", "Django"],
-      tools: ["REST API", "GraphQL"]
-    },
-
-    databases: {
-      relational: ["PostgreSQL", "MySQL"],
-      nosql: ["MongoDB", "Firebase"],
-      inMemory: ["Redis"]
-    },
-    
-    tools: [
-      "Git",
-      "Docker",
-      "AWS",
-      "Linux",
-      "Postman",
-      "VS Code"
-    ]
+    frontend: ["React.js", "Tailwind CSS", "ShadCN UI", "Chart.js"],
+    backendML: ["Flask", "FastAPI", "GitHub API", "Machine Learning (Python)"],
+    tools: ["Git", "GitHub", "Firebase", "VS Code"],
+    productivity: ["MS Office", "Notion", "Google Workspace"],
+    os: ["Ubuntu", "Kali Linux", "CentOS"]
   },
 
   currentFocus: "Cloud Security and DevSecOps",
@@ -65,6 +41,19 @@ const sakthi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>📬 Interested in collaborating on Sec-Dev projects, automation tools, or AI-driven security apps?  
 Reach out via LinkedIn or Email — happy to discuss.
 </b></em>
+
+---
+
+### 🛠️ Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ShadCN UI](https://img.shields.io/badge/ShadCN%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) |
+| **Backend/ML** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Productivity** | ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **OS** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) |
 
 ---
 
