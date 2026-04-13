@@ -50,17 +50,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 131.6 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2026
+> 🏆 204 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,21 +67,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-🌆 Daytime                225 commits         ██████████████░░░░░░░░░░░   56.11 % 
-🌃 Evening                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌞 Morning                72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+🌆 Daytime                232 commits         ██████████████░░░░░░░░░░░   56.86 % 
+🌃 Evening                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Tuesday                  77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Sunday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Tuesday                  77 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Friday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Saturday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 ```
 
 
@@ -95,23 +91,25 @@ Sunday                   33 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
-HTML                     6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
-XML                      2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-OpenEdge ABL             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript               7 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
+HTML                     6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+XML                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+OpenEdge ABL             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  20 hrs 4 mins       ████████████████████████░   96.25 % 
+Antigravity              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🐱‍💻 Projects: 
-LWCExamples              15 hrs 14 mins      ███████████████████░░░░░░   75.90 % 
-NewLwc                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-LWC                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-OpenNotes                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+LWCExamples              15 hrs 14 mins      ██████████████████░░░░░░░   73.06 % 
+NewLwc                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+LWC                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+OpenNotes                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Sakthi102003             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Windows                  20 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +129,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 07:19:27 UTC
+ Last Updated on 13/04/2026 02:00:49 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
