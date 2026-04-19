@@ -56,7 +56,7 @@
 
 > 📦 131.6 kB Used in GitHub's Storage 
  > 
-> 🏆 206 Contributions in the Year 2026
+> 🏆 207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +64,55 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌆 Daytime                234 commits         ██████████████░░░░░░░░░░░   56.93 % 
+🌃 Evening                103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  79 commits          █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Friday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+
+🔥 Editors: 
+VS Code                  1 hr 46 mins        ██████████████░░░░░░░░░░░   56.00 % 
+Antigravity              51 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Unknown Editor           31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+
+🐱‍💻 Projects: 
+NewLwc                   1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.09 % 
+Notebook                 1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Sakthi102003             51 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+features                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+positionLayout           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+
+💻 Operating System: 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +130,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 01:48:14 UTC
+ Last Updated on 19/04/2026 02:00:32 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
