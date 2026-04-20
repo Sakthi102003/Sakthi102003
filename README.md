@@ -91,26 +91,25 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Other                    49 mins             █████████░░░░░░░░░░░░░░░░   34.97 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+HTML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+OpenEdge ABL             15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        ██████████████░░░░░░░░░░░   56.00 % 
-Antigravity              51 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Unknown Editor           31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+VS Code                  1 hr 51 mins        ███████████████████░░░░░░   77.73 % 
+Unknown Editor           31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 
 🐱‍💻 Projects: 
-NewLwc                   1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   34.09 % 
-Notebook                 1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Sakthi102003             51 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-features                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-positionLayout           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+NewLwc                   1 hr 8 mins         ████████████░░░░░░░░░░░░░   48.03 % 
+Notebook                 1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.05 % 
+features                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+positionLayout           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +129,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 02:00:32 UTC
+ Last Updated on 20/04/2026 02:02:10 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
