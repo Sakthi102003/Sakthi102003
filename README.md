@@ -91,25 +91,25 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    45 mins             ████████████░░░░░░░░░░░░░   48.21 % 
-OpenEdge ABL             12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+OpenEdge ABL             28 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+JavaScript               21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+HTML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          ████████████████░░░░░░░░░   65.96 % 
-Unknown Editor           31 mins             █████████░░░░░░░░░░░░░░░░   34.04 % 
+VS Code                  1 hr 34 mins        ████████████████████████░   97.23 % 
+Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-Notebook                 1 hr 1 min          ████████████████░░░░░░░░░   65.79 % 
-NewLwc                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-features                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-classes                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+NewLwc                   1 hr 21 mins        █████████████████████░░░░   84.54 % 
+Notebook                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+features                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+policyDetail             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+classes                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 01:57:16 UTC
+ Last Updated on 22/04/2026 01:55:43 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
