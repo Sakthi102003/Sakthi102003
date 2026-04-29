@@ -91,24 +91,17 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-OpenEdge ABL             16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Markdown                 13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████░░░░   82.28 % 
-Antigravity              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Antigravity              13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NewLwc                   59 mins             ████████████████████░░░░░   78.96 % 
-clean_salesforce_md      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-salesforce_notes_repo    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-policyDetail             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+clean_salesforce_md      9 mins              █████████████████░░░░░░░░   69.05 % 
+salesforce_notes_repo    4 mins              ████████░░░░░░░░░░░░░░░░░   30.95 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +121,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 02:12:49 UTC
+ Last Updated on 29/04/2026 02:13:45 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
