@@ -91,22 +91,22 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               40 mins             ███████████████░░░░░░░░░░   61.53 % 
-CSS                      17 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               40 mins             ████████████████████░░░░░   82.00 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity              1 hr 1 min          ███████████████████████░░   93.01 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Antigravity              44 mins             ███████████████████████░░   90.68 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🐱‍💻 Projects: 
-Notebook                 1 hr 4 mins         █████████████████████████   98.40 % 
-src                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Notebook                 48 mins             ████████████████████████░   97.87 % 
+src                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +126,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 02:11:06 UTC
+ Last Updated on 08/05/2026 02:27:37 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
