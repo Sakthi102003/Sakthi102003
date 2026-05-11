@@ -91,22 +91,16 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               40 mins             ████████████████████░░░░░   82.00 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              44 mins             ███████████████████████░░   90.68 % 
-VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Notebook                 48 mins             ████████████████████████░   97.87 % 
-src                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +120,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2026 02:13:19 UTC
+ Last Updated on 11/05/2026 02:31:35 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
