@@ -50,13 +50,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 131.7 kB Used in GitHub's Storage 
+> 📦 131.9 kB Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2026
+> 🏆 177 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,45 +64,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-🌆 Daytime                236 commits         ██████████████░░░░░░░░░░░   56.73 % 
-🌃 Evening                103 commits         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  79 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Wednesday                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Thursday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Friday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Sunday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +81,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 02:32:00 UTC
+ Last Updated on 07/06/2026 02:50:26 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
