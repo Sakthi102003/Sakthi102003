@@ -64,6 +64,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌆 Daytime                238 commits         ██████████████░░░░░░░░░░░   56.94 % 
+🌃 Evening                103 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Tuesday                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Thursday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Sunday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +120,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 02:50:26 UTC
+ Last Updated on 08/06/2026 02:53:30 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
