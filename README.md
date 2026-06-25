@@ -91,24 +91,16 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████░░░░░░░░░░░░░░   43.30 % 
-Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-TypeScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             ██████████████████████░░░   87.31 % 
-Antigravity              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Vulnwatch                38 mins             ████████████████████░░░░░   81.69 % 
-backend                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-app                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Notebook                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +120,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 02:36:47 UTC
+ Last Updated on 25/06/2026 02:38:00 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
