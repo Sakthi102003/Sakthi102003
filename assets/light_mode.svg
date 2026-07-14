@@ -1,0 +1,37 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sakthimurugan S profile banner</title>
+  <desc id="desc">A light theme GitHub profile banner for Sakthimurugan S.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1120" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F5EF"/>
+      <stop offset="1" stop-color="#E7F5F2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="240" y1="120" x2="980" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5A4"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="720" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="720" rx="40" fill="url(#bg)"/>
+  <circle cx="1020" cy="120" r="140" fill="#BFEFE8" opacity="0.7"/>
+  <circle cx="180" cy="600" r="180" fill="#C8DBFF" opacity="0.55"/>
+  <rect x="80" y="80" width="1040" height="560" rx="32" fill="#FFFFFF" filter="url(#shadow)"/>
+  <rect x="120" y="120" width="120" height="120" rx="28" fill="url(#accent)"/>
+  <text x="180" y="199" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">S</text>
+  <text x="280" y="170" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Sakthimurugan S</text>
+  <text x="280" y="212" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Cloud Security | DevSecOps | Automation</text>
+  <rect x="280" y="258" width="160" height="44" rx="22" fill="#E2E8F0"/>
+  <text x="360" y="287" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Security-first</text>
+  <rect x="452" y="258" width="148" height="44" rx="22" fill="#DDF4F3"/>
+  <text x="526" y="287" text-anchor="middle" fill="#0F766E" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Practical</text>
+  <rect x="612" y="258" width="178" height="44" rx="22" fill="#DBEAFE"/>
+  <text x="701" y="287" text-anchor="middle" fill="#1D4ED8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Open to collab</text>
+  <text x="120" y="384" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Building useful systems for secure teams</text>
+  <text x="120" y="432" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Focused on cloud security, DevSecOps workflows, and automation that saves time.</text>
+  <text x="120" y="486" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Python, JavaScript, and the tooling around modern delivery.</text>
+  <rect x="120" y="548" width="284" height="64" rx="20" fill="#0F172A"/>
+  <text x="262" y="589" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">github.com/Sakthi102003</text>
+  <text x="1080" y="582" text-anchor="end" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">theme-aware profile banner</text>
+</svg>
