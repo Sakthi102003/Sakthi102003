@@ -93,49 +93,49 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 24 mins       ████████████████████░░░░░   78.17 % 
-CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               2 hrs 38 mins       ███████████████████░░░░░░   76.05 % 
+JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████░░░░   83.38 % 
-Antigravity Desktop      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+VS Code                  2 hrs 45 mins       ████████████████████░░░░░   79.20 % 
+Antigravity Desktop      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🐱‍💻 Projects: 
-Notebook                 3 hrs 59 mins       ███████████████████████░░   91.69 % 
-ui                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-src                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-layout                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-pages                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Notebook                 3 hrs 6 mins        ██████████████████████░░░   89.60 % 
+ui                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+src                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+layout                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+pages                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 45 mins (86.51%)
+⏱ AI Coding Time: 3 hrs 17 mins (94.86%)
 
-✍️ 3,018 lines written by AI, 150 lines written by hand (95.27% AI-written)
+✍️ 3,018 lines written by AI, 113 lines written by hand (96.39% AI-written)
 
 🔤 441,773 Input Tokens, 2,375 Output Tokens
 
 💵 $1.35 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 64 AI Prompts
+🧠 12 AI Sessions, 60 AI Prompts
 
 Github-Copilot           3,019 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.27% of written lines came from AI
-📝 Concise Prompter — average 476 characters per prompt
+🤖 AI-Driven — 96.39% of written lines came from AI
+📄 Detailed Prompter — average 505 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 40.62% of changed lines were hand-edited
+🚀 High AI Trust — 35.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 02:23:18 UTC
+ Last Updated on 04/09/2026 02:18:16 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
