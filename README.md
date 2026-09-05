@@ -50,7 +50,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -58,7 +58,7 @@
 
 > 📦 132.8 kB Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2026
+> 🏆 204 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +69,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                83 commits          █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-🌆 Daytime                247 commits         ██████████████░░░░░░░░░░░   56.26 % 
-🌃 Evening                108 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌞 Morning                83 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌆 Daytime                249 commits         ██████████████░░░░░░░░░░░   56.46 % 
+🌃 Evening                108 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Wednesday                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Friday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Sunday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Wednesday                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Thursday                 70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Sunday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
@@ -93,49 +93,49 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 38 mins       ███████████████████░░░░░░   76.05 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               3 hrs               █████████████████░░░░░░░░   67.62 % 
+JavaScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ████████████████████░░░░░   79.20 % 
-Antigravity Desktop      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+VS Code                  3 hrs 14 mins       ██████████████████░░░░░░░   73.08 % 
+Antigravity Desktop      1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🐱‍💻 Projects: 
-Notebook                 3 hrs 6 mins        ██████████████████████░░░   89.60 % 
-ui                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-src                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-layout                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-pages                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Notebook                 3 hrs 28 mins       ████████████████████░░░░░   78.24 % 
+birthday-letter-project  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+ui                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+src                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+layout                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 17 mins (94.86%)
+⏱ AI Coding Time: 3 hrs 59 mins (89.82%)
 
-✍️ 3,018 lines written by AI, 113 lines written by hand (96.39% AI-written)
+✍️ 3,018 lines written by AI, 197 lines written by hand (93.87% AI-written)
 
 🔤 441,773 Input Tokens, 2,375 Output Tokens
 
 💵 $1.35 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 60 AI Prompts
+🧠 14 AI Sessions, 79 AI Prompts
 
 Github-Copilot           3,019 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.39% of written lines came from AI
-📄 Detailed Prompter — average 505 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 35.15% of changed lines were hand-edited
+🤖 AI-Driven — 93.87% of written lines came from AI
+📝 Concise Prompter — average 404 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 41.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 02:18:16 UTC
+ Last Updated on 05/09/2026 02:19:02 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
