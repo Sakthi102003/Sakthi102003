@@ -93,49 +93,49 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ██████████████████░░░░░░░   70.49 % 
-JavaScript               50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               2 hrs 6 mins        ██████████████████░░░░░░░   71.50 % 
+JavaScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ███████████████████░░░░░░   74.30 % 
-Antigravity Desktop      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+VS Code                  1 hr 49 mins        ███████████████░░░░░░░░░░   61.92 % 
+Antigravity Desktop      1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.86 % 
+Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-Notebook                 3 hrs 25 mins       ████████████████████░░░░░   78.16 % 
-birthday-letter-project  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-ui                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-src                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-layout                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Notebook                 2 hrs 8 mins        ██████████████████░░░░░░░   72.51 % 
+birthday-letter-project  36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+ui                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+features                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+layout                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 54 mins (89.04%)
+⏱ AI Coding Time: 2 hrs 34 mins (87.57%)
 
-✍️ 3,019 lines written by AI, 154 lines written by hand (95.15% AI-written)
+✍️ 406 lines written by AI, 121 lines written by hand (77.04% AI-written)
 
-🔤 481,433 Input Tokens, 6,932 Output Tokens
+🔤 103,714 Input Tokens, 5,301 Output Tokens
 
-💵 $1.55 Estimated AI Cost This Week
+💵 $0.39 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 11 AI Sessions, 58 AI Prompts
 
-Github-Copilot           3,019 lines         █████████████████████████   99.41 % 
-GPT                      18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Github-Copilot           406 lines           ████████████████████████░   95.75 % 
+GPT                      18 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.15% of written lines came from AI
-📝 Concise Prompter — average 376 characters per prompt
+🤖 AI-Driven — 77.04% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 40.58% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 02:24:07 UTC
+ Last Updated on 09/09/2026 02:27:05 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
