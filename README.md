@@ -52,7 +52,7 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,44 +93,41 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               29 mins             ███████████░░░░░░░░░░░░░░   44.55 % 
-TypeScript               27 mins             ███████████░░░░░░░░░░░░░░   42.92 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               6 mins              ██████████████████████░░░   87.92 % 
+CSS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 🔥 Editors: 
-VS Code                  32 mins             ████████████░░░░░░░░░░░░░   49.40 % 
-Antigravity Desktop      29 mins             ███████████░░░░░░░░░░░░░░   44.56 % 
-Codex Vscode             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Codex Vscode             3 mins              ██████████████░░░░░░░░░░░   54.04 % 
+VS Code                  2 mins              ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Antigravity Desktop      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 🐱‍💻 Projects: 
-birthday-letter-project  36 mins             ██████████████░░░░░░░░░░░   55.73 % 
-Notebook                 28 mins             ███████████░░░░░░░░░░░░░░   44.27 % 
+Notebook                 7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (71.04%)
+⏱ AI Coding Time: 4 mins (66.15%)
 
-✍️ 1 lines written by AI, 84 lines written by hand (1.18% AI-written)
+✍️ 1 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 40,263 Input Tokens, 5,160 Output Tokens
 
 💵 $0.20 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 25 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 GPT                      18 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.18% of written lines came from AI
-📝 Concise Prompter — average 84 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 96.4% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +147,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 02:21:41 UTC
+ Last Updated on 12/09/2026 02:28:59 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
