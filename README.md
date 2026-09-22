@@ -93,25 +93,24 @@ Sunday                   42 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 mins             ████████████████░░░░░░░░░   63.26 % 
-TypeScript               8 mins              █████████░░░░░░░░░░░░░░░░   36.74 % 
+TypeScript               8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity Desktop      15 mins             ████████████████░░░░░░░░░   63.96 % 
-VS Code                  6 mins              ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+VS Code                  6 mins              ██████████████████░░░░░░░   72.90 % 
+Codex Vscode             2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🐱‍💻 Projects: 
-Notebook                 23 mins             █████████████████████████   100.00 % 
+Notebook                 8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (83.64%)
+⏱ AI Coding Time: 4 mins (55.45%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -119,14 +118,14 @@ Windows                  23 mins             ███████████�
 
 💵 $0.06 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 191 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -147,7 +146,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sakthi102003/Sakthi102003/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 02:40:51 UTC
+ Last Updated on 22/09/2026 02:42:37 UTC
 <!--END_SECTION:waka-->
 
 **Readme stats are synchronized using professional automation tools.**
